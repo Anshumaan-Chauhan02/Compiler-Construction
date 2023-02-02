@@ -13,6 +13,13 @@ Compilers are the reasons why languages such as C++/C are much better and faster
 * FinalDocCCAssignment.docx : Word file contaiing the corresponding new syntaxes used
 * P.l.l : Lex file  - accepting a C program only if it goes by the standard 
 * P.y.y : Yacc file - Changes the C program to corresponding Java inspired language 
+<br>
 
+### Steps for successful execution : 
+- Open command line as an Administrator 
+- Execute the yacc file using the following command : yacc -d yacc_filename.y
+- Create lex.yy.c file by executing :  lex lex_filename.l\
+- Compile everything - cc lex.yy.c y.tab.c -c_filename.exe 
+<br>
 ![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Anshumaan-Chauhan02)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshumaan-Chauhan02&layout=compact)
