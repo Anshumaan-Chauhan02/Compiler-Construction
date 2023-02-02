@@ -8,7 +8,7 @@ Compilers are the reasons why languages such as C++/C are much better and faster
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
-## 1) File Description and Content
+### File Description and Content
 * 00READ ME.pdf : Conatins the task required for the fulfillment of the project 
 * FinalDocCCAssignment.docx : Word file contaiing the corresponding new syntaxes used
 * P.l.l : Lex file  - accepting a C program only if it goes by the standard 
