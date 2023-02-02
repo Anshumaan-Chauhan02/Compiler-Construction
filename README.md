@@ -1,6 +1,12 @@
 <h2 align='center'><b> Compiler Construction Project </b></h2>
 
 <h4 align='center'> Project Description </h4> 
-Machine learning algorithms have made tremendous progress recently and have been applied to various real-world problems. One of the applications also includes the task of predicting delays in Flight timings, which is one of the serious problems faced by the Airline business. However, the problem with machine learning models involving deep learning is that they need - high computational power systems to train and store the model. Additionally, the system needs to be made end to end scalable and is ignored by the trends in recent research. This paper discusses the approach we have used to predict the delay in flight by framing this as a prediction problem. Most of the research in machine learning goes into the part of predictive modeling. However, we focus on the end-to-end aspect of the problem by using industry-standard high-performance systems such as MySQL and SparkSQL. We show that our solution can not only be used for predictive modeling but also provides an end-to-end explanation of the whole product with faster real-time predictions and scalability. <br><br>
-This Repository consist of code and documentation needed for successfully running the project End to End. <br><br>
-Below are the steps needed to be installed before running this project : 
+Compilers are the reasons why languages such as C++/C are much better and faster as compared to Python. In this project we have created a compiler that does the job of converting C programs to a language that is inspired by Java. Lex and Yacc were used for the task of accepting a valid C language and then converting the program line by line to other language. <br><br>
+
+### Technical Skills 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+
+![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Anshumaan-Chauhan02)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshumaan-Chauhan02&layout=compact)
