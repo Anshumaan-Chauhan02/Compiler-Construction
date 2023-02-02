@@ -21,5 +21,6 @@ Compilers are the reasons why languages such as C++/C are much better and faster
 - Create lex.yy.c file by executing :  lex lex_filename.l\
 - Compile everything - cc lex.yy.c y.tab.c -c_filename.exe 
 <br>
+
 ![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Anshumaan-Chauhan02)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshumaan-Chauhan02&layout=compact)
