@@ -6,6 +6,8 @@ Compilers are the reasons why languages such as C++/C are much better and faster
 ### Technical Skills 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Lex](https://img.shields.io/badge/Lex-yellow?style=for-the-badge)
+![Yacc](https://img.shields.io/badge/Yacc-black?style=for-the-badge)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 ### File Description and Content
